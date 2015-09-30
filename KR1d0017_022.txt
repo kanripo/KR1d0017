@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 周禮註疏刪翼
-#+DATE: 2015-09-23 09:37:33
-#+PROPERTY: JUAN 22
+#+DATE: 2015-08-24 22:08:01.156575
+#+PROPERTY: ID KR1d0017
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二十二
 <pb:KR1d0017_WYG_022-1a>¶
 欽定四庫全書¶
 　周禮註疏刪翼卷二十二¶
@@ -434,4 +436,3 @@
 　既緐不得不分秋官六十屬皆主裁物之過萬物各¶
 　正性命之象也¶
 　周禮註疏刪翼卷二十二¶
-
